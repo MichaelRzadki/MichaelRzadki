@@ -24,5 +24,5 @@ Provided actionable insights from vast datasets, impacting resource allocation a
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/michael-rzadki-3257b8137/) ! Looking forward to chatting
 
-## If you have some time, feeling free to take a look at my portfolio!
+## If you have some time, feeling free to take a look at my [portfolio](https://github.com/MichaelRzadki/portfolio/README.md)!
 
